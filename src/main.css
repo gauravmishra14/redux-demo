@@ -1,3 +1,15 @@
 body {
     line-height: 2;
 }
+
+.right{
+	float: right;
+}
+
+.list-group-flush{
+	max-width: 250px;
+}
+
+.pointer{
+	cursor: pointer;
+}
